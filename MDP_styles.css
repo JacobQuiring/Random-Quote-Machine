@@ -1,0 +1,18 @@
+body{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+#editor{
+    min-height: 200px;
+    width: 50%;
+    
+}
+
+#preview{
+    border: 1px solid;
+
+}
+img{
+    width: 150px;
+}
